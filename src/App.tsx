@@ -1,6 +1,6 @@
 import Todo from "./components/Todo";
 
-
+//Todo app using React Query
 function App() {
 
 
