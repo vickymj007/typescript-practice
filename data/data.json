@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": 1707342762884,
+      "todo": "Learn Js and Ts",
+      "completed": false,
+      "edit": false
+    },
+    {
+      "id": 1707352479023,
+      "todo": "Buy Milk",
+      "completed": true,
+      "edit": false
+    }
+  ]
+}
