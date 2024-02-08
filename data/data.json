@@ -11,6 +11,11 @@
       "todo": "Buy Milk",
       "completed": true,
       "edit": false
+    },
+    {
+      "id": 1707408335452,
+      "todo": "New Todo",
+      "completed": false
     }
   ]
 }
